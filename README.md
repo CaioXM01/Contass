@@ -2,6 +2,7 @@
 ## Instalação
 - Baixe o repositório como arquivo zip ou faça um clone;
 - Descompacte os arquivos no servidor php;
+- Crie o banco de dados pelo arquivo contass.sql
 ## Parte Prática
 #### Primeiramente vamos acessar a pasta application, nela se encontra a estrutura necessária para o CRUD. Algumas pastas utilizadas:
 - config: Pasta responsável pelas configurações do sistema (banco de dados, rotas, configurações gerais, etc...);
