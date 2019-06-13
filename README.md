@@ -1,14 +1,14 @@
 # Lista de Tarefas Contass
-InstalaÁ„o
-Baixe o repositÛrio como arquivo zip ou faÁa um clone;
-Descompacte os arquivos no servidor php;
-Parte Pr·tica
-Primeiramente vamos acessar a pasta application, nela se encontra a estrutura necess·ria para o CRUD. Algumas pastas utilizadas:
-config: Pasta respons·vel pelas configuraÁıes do sistema (banco de dados, rotas, configuraÁıes gerais, etc...);
-controllers: Camada respons·vel pela comunicaÁ„o entre a camada de dados (models) e tambÈm pela camada de apresentaÁ„o (views);
-models: Camada respons·vel pela comunicaÁ„o entre o banco de dados;
-views: Camada respons·vel pela parte de apresentaÁ„o, recebe dados do controller.
-Visualizar AplicaÁ„o
-Basta digitar o caminho na URL:
-URL: http://localhost/contass/
+## Instala√ß√£o
+- Baixe o reposit√≥rio como arquivo zip ou fa√ßa um clone;
+- Descompacte os arquivos no servidor php;
+## Parte Pr√°tica
+#### Primeiramente vamos acessar a pasta application, nela se encontra a estrutura necess√°ria para o CRUD. Algumas pastas utilizadas:
+- config: Pasta respons√°vel pelas configura√ß√µes do sistema (banco de dados, rotas, configura√ß√µes gerais, etc...);
+- controllers: Camada respons√°vel pela comunica√ß√£o entre a camada de dados (models) e tamb√©m pela camada de apresenta√ß√£o (views);
+- models: Camada respons√°vel pela comunica√ß√£o entre o banco de dados;
+- views: Camada respons√°vel pela parte de apresenta√ß√£o, recebe dados do controller.
+
+## Visualizar Aplica√ß√£o
+Basta digitar o caminho na URL: http://localhost/contass/
 
